@@ -1,0 +1,6 @@
+2025-04-19 17:09:32,567 : INFO : test_func1 : Opened Secret Sauce website to test automation script
+2025-04-19 17:09:33,597 : INFO : test_func1 : Performed action: send_keys on element with Desc:Enter username, Param:standard_user, Tag:input
+2025-04-19 17:09:34,594 : INFO : test_func1 : Performed action: send_keys on element with Desc:Enter password, Param:secret_sauce, Tag:input
+2025-04-19 17:09:35,781 : INFO : test_func1 : Performed action: click on element with Desc:Login button, Param:None, Tag:input
+2025-04-19 17:09:35,782 : INFO : test_func1 : ------------------------------TEST_FUNC1 ENDS HERE------------------------------
+
