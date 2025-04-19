@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3197fcfc-c9de-49d2-9be7-9e9734fa1aab" name="Changes" comment="Added sample test file">
-      <change afterPath="$PROJECT_DIR$/data/data_test.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pageObjects/LoginPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pageObjects/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports and ss/Run_19042025_165427_988675/LogFile - Run_19042025_165427_988675.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports and ss/Run_19042025_165427_988675/report - Run_19042025_165427_988675 .html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports and ss/Run_19042025_165427_988675/test_func1/screenshot_19042025_165439_452628.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports and ss/Run_19042025_165427_988675/test_func1/screenshot_19042025_165439_911674.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports and ss/Run_19042025_165427_988675/test_func1/screenshot_19042025_165440_269753.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports and ss/Run_19042025_165427_988675/test_func1/screenshot_19042025_165441_685364.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports and ss/Run_19042025_170909_458084/LogFile - Run_19042025_170909_458084.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports and ss/Run_19042025_170909_458084/report - Run_19042025_170909_458084 .html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports and ss/Run_19042025_170909_458084/test_func1/screenshot_19042025_170931_474890.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports and ss/Run_19042025_170909_458084/test_func1/screenshot_19042025_170933_403923.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports and ss/Run_19042025_170909_458084/test_func1/screenshot_19042025_170933_786694.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports and ss/Run_19042025_170909_458084/test_func1/screenshot_19042025_170934_778640.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/Sample/test_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/BaseClass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="3197fcfc-c9de-49d2-9be7-9e9734fa1aab" name="Changes" comment="Added sample test file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
